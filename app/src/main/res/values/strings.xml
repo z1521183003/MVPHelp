@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVPHelp</string>
+    <string name="btn_login_text">登陆</string>
 </resources>
